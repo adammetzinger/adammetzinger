@@ -9,8 +9,6 @@ Skills: Express / REACT/ Django / JS / Python / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammetzinger&show_icons=true&theme=tokyonight)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adammetzinger)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammetzinger)](https://github.com/anuraghazra/github-readme-stats)
 
 
