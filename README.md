@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adam
 #### I am Fullstack Software Engineer
-I'm Adam I am working on my Fullstack skillset. I enjoy solving coding challenges and learning languages and frameworks such as Django, Express and React and python.
+I'm Adam I am working on my Fullstack skillset. I enjoy solving coding challenges and learning languages and frameworks such as Django, Express and React and Python.
 
 Skills: Express / REACT/ Django / JS / Python / HTML / CSS
 
